@@ -1,4 +1,4 @@
-## Olá, sou Wallyson e bem vindo ao meu perfil!
+## Olá, me chamo Wallyson, bem vindo ao meu perfil!
 
 # Projetos:
 #### *Nenhum projeto no momento!*
