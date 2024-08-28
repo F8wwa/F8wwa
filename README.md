@@ -2,7 +2,6 @@
 
 # Projetos:
 #### *> Trabalhando no desenvolvimento de uma engine.*
-#### *> Página de conteúdo para desenvolvimento de jogos indies.* - [Visualizar](https://github.com/F8wwa/DevContent)
 ## Skills:
 <div style="display: inline_block"<br/>
 <img alig="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
